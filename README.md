@@ -1,8 +1,9 @@
 - 👋 Hi, I’m @gemiciemre
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👀 I’m interested in Mobile Application Development
+- 🌱 I’m currently learning Java,Kotlin and Swift
+- 📫 How to reach me emregemici5@gmail.com
+- 👽 My HackerRank https://www.hackerrank.com/emregemici 
+- 👨‍💻 My Linkedin https://www.linkedin.com/in/emre-gemici/
 
 <!---
 gemiciemre/gemiciemre is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
