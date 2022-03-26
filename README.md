@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @gemiciemre
+- 👋 Hi, I’m Emre GEMICI
 - 👀 I’m interested in Mobile Application Development
 - 🌱 I’m currently learning Java,Kotlin and Swift
 - 📫 How to reach me emregemici5@gmail.com
