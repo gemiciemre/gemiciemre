@@ -18,7 +18,6 @@ You can click the Preview link to take a look at your changes.
 ![](https://github-readme-stats.vercel.app/api?username=gemiciemre&theme=vue-dark&hide_border=true&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=gemiciemre&theme=vue-dark&hide_border=true)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=gemiciemre&theme=vue-dark&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
-![image](https://github.com/gemiciemre/gemiciemre/assets/90448957/55723008-a233-45e1-9d67-a3fba214409f)
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
@@ -30,3 +29,5 @@ You can click the Preview link to take a look at your changes.
 [![](https://visitcount.itsvg.in/api?id=gemiciemre&icon=0&color=0)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+
+
