@@ -23,8 +23,7 @@ You can click the Preview link to take a look at your changes.
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
 
 ### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=gemiciemre&limit=5&theme=dark&combine_all_yearly_contributions=true)
-
+![](https://github-contributor-stats.vercel.app/api?username=gemiciemre&limit=5&theme=tokyonight&combine_all_yearly_contributions=true)
 ---
 [![](https://visitcount.itsvg.in/api?id=gemiciemre&icon=0&color=0)](https://visitcount.itsvg.in)
 
