@@ -7,7 +7,7 @@
 
 
 <div align="center">
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/Apple_Developer_brandmark.svg/1280px-Apple_Developer_brandmark.svg.png" align="center" style="width: 35%" />
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/Apple_Developer_brandmark.svg/1280px-Apple_Developer_brandmark.svg.png" align="center" style="width: 45%" />
 </div>  
   
 
