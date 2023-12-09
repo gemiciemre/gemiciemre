@@ -17,7 +17,7 @@
 - 🔭  I’m interested in Mobile Application Development  
   
 
-- 🌱 I’m currently learning UIKit and SwiftUI  
+- 🌱 I’m currently learning UIKit and SwiftUI Frameworks  
   
 
 - 📫 How to reach me emregemici5@gmail.com  
